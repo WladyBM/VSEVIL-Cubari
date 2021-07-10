@@ -1,0 +1,41 @@
+{
+  "title": "VS EVIL",
+  "description": "This is the story of a university student, Asahi, who is possessed by a spirit that has lost the memory of her life. This will be a new and elegant 'spiritual' battle that represents the struggle between two people searching for their lost memories.",
+  "artist": "Yomoyama Takashi",
+  "author": "Yomoyama Takashi",
+  "cover": "https://i.imgur.com/3p930F8.jpg",
+  "chapters": {
+    "01": {
+      "title": "VS Spectors",
+      "volume": "1",
+      "groups": {
+        "West Egg Translations": "/proxy/api/imgur/chapter/BbpDssW/"
+      },
+      "last_updated": "1545036206"
+     },
+     "02": {
+      "title": "VS Seeker",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/H59pgzV/"
+      },
+      "last_updated": "1596043912"
+    },
+    "03": {
+      "title": "VS The Ground Skater 1",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/pxYMntx/"
+      },
+      "last_updated": "1609867891"
+    },
+    "04": {
+      "title": "VS The Ground Skater 2",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/WcKmhYe/"
+      },
+      "last_updated": "1625907388"
+    }
+  }
+}
