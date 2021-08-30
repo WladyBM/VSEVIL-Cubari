@@ -158,12 +158,20 @@
       "last_updated": "1628734747"
     },
     "19": {
-      "title": "VS The doctor",
+      "title": "VS The doctor 1",
       "volume": "2",
       "groups": {
         "FrenziedFrog Scan": "/proxy/api/imgur/chapter/Z2QSR45/"
       },
       "last_updated": "1628826209"
+    },
+    "20": {
+      "title": "VS The doctor 2",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/b5v3dcQ/"
+      },
+      "last_updated": "1630296675"
     }
   }
 }
